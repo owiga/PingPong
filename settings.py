@@ -1,0 +1,9 @@
+width = 700
+height = 450
+ball_color = (255, 255, 255)
+player_color = (0, 255, 0)
+bot_color = (255, 0, 0)
+fps = 200
+block_x = width // 10 + 2
+block_y_padding = height // 6 + 10
+padding = 50
